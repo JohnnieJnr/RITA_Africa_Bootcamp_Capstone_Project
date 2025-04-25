@@ -13,7 +13,7 @@ take a multiple-choice quiz, get instant results, and save their scores. The use
 - JupyterLab
 
 ## How to Use
-- Clone the ![repository](https://github.com/JohnnieJnr/RITA_Africa_Bootcamp_Capstone_Project)
+- Clone the [repository](https://github.com/JohnnieJnr/RITA_Africa_Bootcamp_Capstone_Project)
 - With JupyterLab installed, run the ``quiz_maker.ipynb`` file
 - Follow the prompt and answer all the questions
 
