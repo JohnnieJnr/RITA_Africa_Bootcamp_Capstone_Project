@@ -8,14 +8,20 @@ take a multiple-choice quiz, get instant results, and save their scores. The use
 - Feedback: Score grading for the quiz and saving to a file
 - User Interaction: Users can input their answers to each question using the console
 
-## Tools used in the project
+## Tools Used
 - python 3.13
 - JupyterLab
 
 ## How to Use
-- Clone the repository
-- With JupyterLab installed, run the quiz_maker.ipynb file
+- Clone the [repository] (https://github.com/JohnnieJnr/RITA_Africa_Bootcamp_Capstone_Project)
+- With JupyterLab installed, run the ``quiz_maker.ipynb`` file
 - Follow the prompt and answer all the questions
+
+## What I Learned
+- Working with dictionaries and functions
+- Control flow and loops to process each question and user input
+- Functions to organize reusable blocks of code
+- File handling to store quiz scores
 
 ## Author
 Johnnie Oduro Jnr
